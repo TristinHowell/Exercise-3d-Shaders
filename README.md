@@ -1,14 +1,15 @@
-# Exercise-03d-Shaders
+# Project 3
+Brick breaker with juice and 2/23/24
 
-Exercise for MSCH-C220
-
-The final step adding "juicy" features to a simple brick-breaker game.
-
+Brick Breaker game with added juice
 
 ## Implementation
+I included everything we created in the assignments and a new background for both main and level, custom sounds
 
-Built using Godot 2022.3
 
+## Future Development
+
+## Created by
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
@@ -17,7 +18,7 @@ Built using Godot 2022.3
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
-
+ * Nathan Mishler YT vids
 
 ## Future Development
 
